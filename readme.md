@@ -20,3 +20,7 @@ Design dirigido à domínio
 - Subdomínios (Bounded Contexts)
 - Entidades
 - Casos de uso
+
+## Clean Architecture
+
+<img src=".github/assets/clean-architecture.png" title="clean architecture" />
