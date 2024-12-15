@@ -1,5 +1,9 @@
 # Gerenciamento de Estoque
 
+Baseado no texto abaixo, consegui identificar as seguintes **entidades** e **casos de uso**.
+
+https://efficient-sloth-d85.notion.site/Atividade-Mapeando-o-dom-nio-38963358ffd74289b824ff73b187165d
+
 ## Entidades
 * produto
 * vendas
